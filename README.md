@@ -34,88 +34,77 @@ Je conçois des produits web qui intègrent l'IA de bout en bout : **de l'API au
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://menucash.lyamml.fr">MenuCash</a></h3>
-      <p><b>SaaS d'audit de menu par IA.</b> Une photo du menu → score, erreurs et estimation des pertes de revenus, puis un plan de restructuration payant.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GPT--4.1--mini_Vision-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://menucash.lyamml.fr">▶ Démo live</a> · <a href="https://github.com/LyamML/MenuCash">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://jvfindings.lyamml.fr">JVFindings</a></h3>
-      <p><b>Recommandation de jeux vidéo par embeddings.</b> Chaque jeu devient un vecteur sémantique, classé par similarité cosinus sur un pool pré-filtré via RAWG.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://jvfindings.lyamml.fr">▶ Démo live</a>
+    <td width="45%"><a href="https://menucash.lyamml.fr"><img src="assets/projects/menucash.png" width="100%" /></a></td>
+    <td valign="middle">
+      <h3>🍽️ MenuCash</h3>
+      SaaS d'audit de menu par IA. Une photo du menu → score, erreurs et pertes de revenus estimées, puis un plan de restructuration payant.
+      <br/><br/>
+      <code>GPT-4.1-mini Vision</code> <code>Stripe</code> <code>Supabase</code> <code>Docker</code>
+      <br/><br/>
+      <a href="https://menucash.lyamml.fr"><b>▶ Démo live</b></a> · <a href="https://github.com/LyamML/MenuCash">Code</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Nexus</h3>
-      <p><b>Assistants IA personnalisés</b> entraînés sur tes propres sources (URLs, PDFs, texte). RAG + pgvector + GPT-4o-mini.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-ff6f61?style=flat-square" />
-        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
+    <td valign="middle">
+      <h3>🎮 JVFindings</h3>
+      Recommandation de jeux vidéo par embeddings. Chaque jeu devient un vecteur sémantique, classé par similarité cosinus.
+      <br/><br/>
+      <code>Next.js 16</code> <code>OpenAI Embeddings</code> <code>TypeScript</code>
+      <br/><br/>
+      <a href="https://jvfindings.lyamml.fr"><b>▶ Démo live</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://lyamml.fr">lyamml.fr</a></h3>
-      <p><b>Mon portfolio</b>, pensé comme un canvas de design infini : zoom sémantique, navigation clavier, mode sombre, aperçus live des projets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://lyamml.fr">▶ Visiter</a> · <a href="https://github.com/LyamML/portfolio">Code</a>
-    </td>
+    <td width="45%"><a href="https://jvfindings.lyamml.fr"><img src="assets/projects/jvfindings.png" width="100%" /></a></td>
   </tr>
 </table>
+
+<p align="center"><sub>Et aussi : 🧩 <b>Nexus</b> (RAG + pgvector) · 🗺️ <a href="https://lyamml.fr"><b>lyamml.fr</b></a> — tous les projets sont sur le portfolio.</sub></p>
 
 ---
 
 ## 🛠️ Stack
 
-**Web & Back-end**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,nodejs,express,php,html,css&theme=dark" />
-</p>
-
-**IA, Data & Python**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,tensorflow,sklearn&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-**Données, Infra & Automatisation**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,nginx,linux,git,github&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square" />
-</p>
-
-**Sécurité** — OWASP Top 10 · Security by Design · Modélisation STRIDE · Burp Suite · Wireshark
+<table>
+  <tr>
+    <td align="right" width="150"><b>Front</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nextjs,vue,vite,html,css&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Back-end</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,python,fastapi,flask,php&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>IA & Data</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,langchain,huggingface,pytorch,tensorflow,sklearn,pandas,numpy,streamlit&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Données</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra & Auto</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,git,github,n8n,stripe&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Sécurité</b></td>
+    <td><code>OWASP Top 10</code> <code>Security by Design</code> <code>STRIDE</code> <code>Burp Suite</code> <code>Wireshark</code></td>
+  </tr>
+</table>
 
 ---
 
 ## 🏅 Certifications
 
-`Kaggle` Python · Pandas · Intro to ML · Intermediate ML · Feature Engineering · Data Visualization
-`DataCamp` OpenAI API · Prompt Engineering
+<p>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-python.png"><img src="https://img.shields.io/badge/Kaggle-Python-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-pandas.png"><img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-intro-to-machine-learning.png"><img src="https://img.shields.io/badge/Kaggle-Intro_to_ML-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-intermediate-machine-learning.png"><img src="https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-feature-engineering.png"><img src="https://img.shields.io/badge/Kaggle-Feature_Engineering-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://lyamml.fr/certifications/kaggle/lyam-mafray-lize-data-visualization.png"><img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <br/>
+  <a href="https://lyamml.fr/certifications/datacamp/openai-api-certificate.pdf"><img src="https://img.shields.io/badge/DataCamp-OpenAI_API-03EF62?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=05192D" /></a>
+  <a href="https://lyamml.fr/certifications/datacamp/prompt-engineering-certificate.pdf"><img src="https://img.shields.io/badge/DataCamp-Prompt_Engineering-03EF62?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=05192D" /></a>
+</p>
 
 ---
 
