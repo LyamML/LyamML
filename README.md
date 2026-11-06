@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:0d99ff&height=200&section=header&text=Lyam%20Mafray-Liz%C3%A9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%26%20IA&descAlignY=58&descSize=20" alt="Lyam Mafray-Lizé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:0d99ff&height=200&section=header&text=Lyam%20Mafray-Liz%C3%A9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20IA&descAlignY=58&descSize=20" alt="Lyam Mafray-Lizé" />
 </p>
 
 <p align="center">
@@ -122,8 +122,8 @@ Je conçois des produits web qui intègrent l'IA de bout en bout : **de l'API au
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LyamML&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamML&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LyamML&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LyamML&theme=tokyonight" />
 </p>
 
 <p align="center">
