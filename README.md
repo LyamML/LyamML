@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:0d99ff&height=200&section=header&text=Lyam%20Mafray-Liz%C3%A9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20IA&descAlignY=58&descSize=20" alt="Lyam Mafray-Lizé" />
+  <a href="https://lyamml.fr"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:0d99ff&height=200&section=header&text=Lyam%20Mafray-Liz%C3%A9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20IA&descAlignY=58&descSize=20" alt="Lyam Mafray-Lizé" /></a>
 </p>
 
 <p align="center">
