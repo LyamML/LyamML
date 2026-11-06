@@ -17,16 +17,16 @@
 
 ---
 
-## 👋 Salut, moi c'est Lyam
+## 👋 Hello, moi c'est Lyam
 
-Développeur **Fullstack & IA** en alternance à l'**EPSI Rennes** (Bachelor Concepteur Développeur d'Applications).
-Je conçois des produits web qui intègrent l'IA de bout en bout : **de l'API au déploiement**.
+Développeur **Fullstack & IA** en alternance à l'**EPSI Rennes** (Bachelor 3 Concepteur Développeur d'Applications).
+Je créé des produits **solides** et **sécurisés** quand je ne travaille pas sur des **modèles locaux** et de la **gestion de données**.
 
-- 🧠 J'aime transformer un modèle (LLM, embeddings, vision) en **vrai produit** utilisable
-- ⚙️ Freelance en **automatisation IA** : workflows n8n / Make connectés à des LLMs et APIs métier
-- 🐳 Je déploie moi-même : Docker, VPS, Coolify, Nginx
-- 🎯 En recherche d'une **alternance Mastère IA & Data** — rentrée **septembre 2027**
-- 🌐 Tout le reste est sur **[lyamml.fr](https://lyamml.fr)** (c'est un tableau infini, va zoomer dessus 👀)
+- 🧠 Je transformer un modèle (LLM, embeddings, vision) en **produit** utilisable
+- ⚙️ Freelance en **automatisation IA** : workflows connectés à des LLMs et APIs métier
+- 🐳 Je déploie : Docker, VPS, Coolify, Nginx
+- 🎯 En recherche d'une **alternance Mastère IA & Data** > rentrée **septembre 2027**
+- 🌐 Tout le reste est sur **[lyamml.fr](https://lyamml.fr)** (c'est un tableau infini, va l'explorer 👀)
 
 ---
 
